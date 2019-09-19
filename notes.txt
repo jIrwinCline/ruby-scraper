@@ -1,0 +1,3 @@
+https://www.rubyguides.com/2019/01/ruby-watir-gem/
+
+https://readysteadycode.com/howto-scrape-websites-with-ruby-and-watir
